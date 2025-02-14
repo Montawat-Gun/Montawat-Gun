@@ -1,6 +1,6 @@
 ### Hello, my name is Montawat Sripaiboon. I am software developer 👋
 
-#### I graduated in computer science with over 2 years of experience in developing web applications, mobile applications, backend systems, and databases in a software development company. Additionally, I have worked as a freelance developer and I am currently studying for a master's degree in software engineering.
+#### I graduated in computer science with over 4 years of experience in developing web applications, mobile applications, backend systems, and databases in a software development company. Additionally, I have worked as a freelance developer and I am currently studying for a master's degree in software engineering.
 <!--
 **Montawat-S/Montawat-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
